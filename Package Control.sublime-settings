@@ -1,0 +1,31 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "A File Icon",
+    "AdvancedNewFile",
+    "Alignment",
+    "ayu",
+    "Babel",
+    "BracketHighlighter",
+    "Case Conversion",
+    "Color Highlighter",
+    "Console Wrap",
+    "Diffy",
+    "DocBlockr",
+    "Dockerfile Syntax Highlighting",
+    "GitGutter",
+    "HTML5",
+    "JSONLint",
+    "MarkdownPreview",
+    "Material Theme",
+    "Package Control",
+    "Protobuf Syntax Hightlighting",
+    "SideBarEnhancements",
+    "SingleTrailingNewLine",
+    "SublimeCodeIntel"
+  ]
+}
